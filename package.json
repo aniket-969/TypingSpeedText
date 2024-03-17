@@ -1,0 +1,26 @@
+{
+  "name": "typingspeedtext",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "an npm package to generate texts,numbers,characters with added functionalities and choices",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniket-969/TypingSpeedText.git"
+  },
+  "keywords": [
+    "npm",
+    "typing",
+    "text",
+    "generator"
+  ],
+  "author": "Aniket Baranwal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aniket-969/TypingSpeedText/issues"
+  },
+  "homepage": "https://github.com/aniket-969/TypingSpeedText#readme"
+}
